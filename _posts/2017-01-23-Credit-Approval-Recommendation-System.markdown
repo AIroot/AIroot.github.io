@@ -7,11 +7,11 @@ img: CreditApproval.jpeg # Add image post (optional)
 tags: [Decision Tree, Random Forests] # add tag
 ---
 
-##[{Source Code DT-CRAN}](https://github.com/AIroot/Credit-Approval-Recommendation-System/blob/master/DT_Credit_Approval_Model_C5/DTCreditApprovalCRAN.R)
+## [{Source Code DT-CRAN}](https://github.com/AIroot/Credit-Approval-Recommendation-System/blob/master/DT_Credit_Approval_Model_C5/DTCreditApprovalCRAN.R)
 
-##[{Source Code DT-C5}](https://github.com/AIroot/Credit-Approval-Recommendation-System/blob/master/DT_Credit_Approval_Model_C5/DTCreditApprovalC5.R)
+## [{Source Code DT-C5}](https://github.com/AIroot/Credit-Approval-Recommendation-System/blob/master/DT_Credit_Approval_Model_C5/DTCreditApprovalC5.R)
 
-##[{Source Code RF}](https://github.com/AIroot/Credit-Approval-Recommendation-System/blob/master/RF_Credit_Approval/RFCreditApproval.R)
+## [{Source Code RF}](https://github.com/AIroot/Credit-Approval-Recommendation-System/blob/master/RF_Credit_Approval/RFCreditApproval.R)
 
 ### Decision Trees 
 
