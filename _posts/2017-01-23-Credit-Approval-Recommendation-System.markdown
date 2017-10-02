@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: CreditApproval.jpeg # Add image post (optional)
 tags: [Decision Tree, Random Forests] # add tag
 ---
+Used 1000 customer data set to create a model to predict the customer credit card approval. Trained the model using Decision Trees and Random Forests algorithms and boosted the accuracy of model by recursive partitioning and pruning.
 
 ## [{Source Code DT-CRAN}](https://github.com/AIroot/Credit-Approval-Recommendation-System/blob/master/DT_Credit_Approval_Model_C5/DTCreditApprovalCRAN.R)
 
