@@ -1,0 +1,31 @@
+title: Hello, world! I'm Anuruddha Pathiranage
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/AIroot.github.io" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author Settings
+author: Anuruddha Jayasekara Pathiranage # add your name
+author-img: AI.jpg # add your photo
+about-author: Well rounded, visionary data scientist with broad spectrum of domain expertise, technical knowledge in big data and machine learning models, and proven success in leveraging data into actionable insights. # add description
+twitter: # add your Twitter handle
+facebook: # add your Facebook handle
+github: AIroot # add your Github handle
+linkedin: # add your Linkedin handle
+email: # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
