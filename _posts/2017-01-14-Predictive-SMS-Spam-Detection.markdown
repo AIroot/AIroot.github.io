@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: image4.png # Add image post (optional)
 tags: [Bayes Theorem, Word Cloud]
 ---
+Cleaned, standardized and visualized 5574 SMS text data using wordcloud, histograms etc. Trained a model to detect spam and ham messages by Naïve Bayes algorithm, validated by kappa statistics.
 
 ## [{Source Code}](https://github.com/AIroot/Predictive-SMS-Spam-Detection/blob/master/NB_SMS_Spam.R)
 ### Objective:  to classify SMS message as spam or not spam (ham).
