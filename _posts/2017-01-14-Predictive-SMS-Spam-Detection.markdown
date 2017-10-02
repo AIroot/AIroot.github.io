@@ -7,7 +7,7 @@ img: image4.png # Add image post (optional)
 tags: [Bayes Theorem, Word Cloud]
 ---
 
-## [Predictive-SMS-Spam-Detection](https://github.com/AIroot/Predictive-SMS-Spam-Detection/blob/master/NB_SMS_Spam.R)
+## [Predictive SMS Spam Detection](https://github.com/AIroot/Predictive-SMS-Spam-Detection/blob/master/NB_SMS_Spam.R)
 ### Objective:  to classify SMS message as spam or not spam (ham).
 
 01) . Use Bayes theorem (or its extension) and write down the corresponding conditional probability of the study problem.
