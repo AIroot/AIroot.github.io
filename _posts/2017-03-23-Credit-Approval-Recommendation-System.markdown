@@ -18,7 +18,7 @@ Used 1000 customer data set to create a model to predict the customer credit car
 
 A decision tree is a classifier that partitions data recursively into to form groups or classes. This can be used in discrete or continuous data for classification or regression. 
 
-### Data Visualizatio
+### Data Visualization
 
 ![]({{site.baseurl}}/assets/img/Credit-Approval-Recommendation-System/image11.png)
 
