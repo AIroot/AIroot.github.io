@@ -21,7 +21,7 @@ Used 4898 wine data set to create a model to predict the wine quality. Trained t
 A decision tree is a classifier that partitions data recursively into to form groups or classes. This can be used in discrete or continuous data for classification or regression. The Algorithm used in the decision trees are ID3 , C4.5, CART, C5.0, CHAID, QUEST, CRUISE, etc.
 This project Use C5.0 algorithm and CART for Wine quality data set.
 
-### Data Visualizatio
+### Data Visualization
 
 
 ![]({{site.baseurl}}/assets/img/Predictive_wine_quality_system/image3.png)
